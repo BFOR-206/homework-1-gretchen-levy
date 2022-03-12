@@ -1,0 +1,29 @@
+Ping IP Address: 15.11.22 yahoo.com 1.2.3.4
+
+IP Address 1: 15.11.22
+time: Fri Mar 11 11:41:52 PM EST 2022
+3 packets transmitted, 0 received, 100% packet loss, time 2048ms
+
+packet loss: 100
+This device is normal, with 100% packet loss.
+
+IP Address 2: yahoo.com
+time: Fri Mar 11 11:42:16 PM EST 2022
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 49.705/50.161/50.607/0.368 ms
+packet loss: 0
+This device is normal.
+
+IP Address 3: 1.2.3.4
+time: Fri Mar 11 11:42:20 PM EST 2022
+3 packets transmitted, 0 received, 100% packet loss, time 2042ms
+
+packet loss: 100
+This device is NOT normal.
+
+Please check your inbox as soon as possible!
+Fri Mar 11 11:42:45 PM EST 2022
+15.11.22 and yahoo.com is up
+1.2.3.4 is down
+Fri Mar 11 11:45:01 PM EST 2022: cron script running
+Fri Mar 11 11:50:01 PM EST 2022: cron script running
